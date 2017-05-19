@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Web Assignement 2</title>
+  <link rel="stylesheet" type="text/css" href="Custom1.css"/>
+</head>
+<body>
+  <div id="top"></div>
+  <div id="left"></div>
+  <div id="right"></div>
+  <div id="middle"></div>
+  <div id="bottom"></div>
+</body>
+</html>
